@@ -13,6 +13,8 @@
 My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add a personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
 </p>
 
+<br>
+
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" alt="Snow" style="width:400px">
 
 - 🔭 I’m currently working on **Fitness Dine** [https://fitnessdine.com/]
