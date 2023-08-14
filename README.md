@@ -1,6 +1,17 @@
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--WPQ75f2s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg)
-<h1 align="center">Hi 👋, I'm Mushfik Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center"><b>Hi , I'm Mushfik Ahmed </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+am+a+Fullstack+Developer.;I+love+to+play+with+JS%2C+React;Nodejs%2C+Express%2C+Redux%2C+MongoDB%2C;TailwindCSS%2C+Nextjs%2C+TypeScript" alt="Typing SVG" /></a>
+</p>
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+
+
+<br>
+<p>I am Mushfik from Bangladesh. Completed my graduation and Right Now Working I am a full-time professional Web Developer. I love to play with JS, React, Nodejs, Express, Redux, MongoDB, MySql, TailwindCSS, Nextjs, Vuejs, Socket.io, and TypeScript WordPress. Every day I try to learn new things and explore new Technologies.
+
+My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add a personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+</p>
 
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" alt="Snow" style="width:400px">
 
