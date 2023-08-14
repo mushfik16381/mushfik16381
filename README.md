@@ -4,7 +4,7 @@
 
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" alt="Snow" style="width:400px">
 
-- 🔭 I’m currently working on **Zlamazon**
+- 🔭 I’m currently working on **Fitness Dine** [https://fitnessdine.com/]
 
 - 🌱 I’m currently learning **Redux, Next.js**
 
