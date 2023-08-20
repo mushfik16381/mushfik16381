@@ -9,8 +9,6 @@
 
 <br>
 <p>I am Mushfik from Bangladesh. Completed my graduation and Right Now Working I am a full-time professional Web Developer. I love to play with JS, React, Nodejs, Express, Redux, MongoDB, MySql, TailwindCSS, Nextjs, Vuejs, Socket.io, and TypeScript WordPress. Every day I try to learn new things and explore new Technologies.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add a personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
 </p>
 
 <br>
